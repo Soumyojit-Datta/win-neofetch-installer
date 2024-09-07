@@ -1,4 +1,4 @@
-# win-neofetch-installer
+# Windows Neofetch Installer
 
 This repository provides an installer script for `neofetch` on Windows, allowing you to run the popular system information tool natively from Command Prompt. This script handles the installation of Git using `winget`, clones the `neofetch` repository, and sets up a shim to enable running `neofetch` from the command line.
 
